@@ -1,0 +1,3 @@
+
+0001 Samonte Ryan Ramirez 18 Male June 1 1999 N.A. Navotas Single N.A. Student N.A. Navotas San,Jose 300,Gov.,Pascual
+0002 Samonte Raymharc Ramirez 15 Male November 16 2002 N.A. Navotas Single N.A. Student N.A. Navotas San,Jose 300,Gov.,Pascual

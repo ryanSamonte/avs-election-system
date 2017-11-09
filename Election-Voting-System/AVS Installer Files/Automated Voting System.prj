@@ -1,0 +1,56 @@
+%%Excelsior JET v12.0 project file
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global+
+-gui+
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-jetcpenablemanualsettings+
+-multiapp-
+-pgo+
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=100
+-inlinetolimit=1000
+-jetcplastpage:=PageAppearance
+-jetrt=Desktop
+-jetvmprop=-Djet.jit.disable.resolution -Djet.gc.heaplimit:0 -Djet.stack.trace
+-jpiiproject=C:\Users\User\Desktop\Automated Voting System.jpn
+-jprofile=./Automated Voting System.jprof
+-main=LogIn
+-outputdir=../workspace
+-outputname=Automated Voting System
+-saprofmode=JETCPONLY
+-saproftimeout=20
+-splash=./AVS- Splash Screen.png
+-stacklimit=900000
+-startupprofile=./Automated Voting System.startup
+-versioninfocompanyname=SD-RAM Computer Technologies
+-versioninfofiledescription=Automated Voting System
+-versioninfolegalcopyright=Copyright \x00a9 2017 SD-RAM Computer Technologies
+-versioninfoproductname=Automated Voting System
+-versioninfoproductversion=1.0.0.0
+
+
+
+
+!classpathentry ./AVS.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=autodetect
+!end
+!classpathentry .
+  -pack=none
+  -protect=all
+  -optimize=all
+!end
+
+!module ../Downloads/icon.ico
+!module ./Automated Voting System.usg
+
